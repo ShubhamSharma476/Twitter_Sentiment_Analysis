@@ -1,5 +1,5 @@
 # Twitter_Sentiment_Analysis
-I have done some Natural Language Processing on the Twitter US Airline Sentiment Dataset, which contains data for over 14000 tweets. Then I have used several classifiers namely, Support Vector Machine, Multinomial Naive Bayes, Random Forest and Decision Trees to predict the sentiment of the tweet i.e. positive, negative or neutral.
+
 Description:
 In this project, I have performed sentiment analysis on the Twitter US Airline Sentiment dataset, which consists of over 14,000 tweets about various US airlines. The main goal of the project is to build a classifier that can predict the sentiment of a tweet as positive, negative or neutral based on its content.
 
